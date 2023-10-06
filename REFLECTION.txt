@@ -1,0 +1,7 @@
+My first challenge is getting the main branch, was committing the README.md update into the feature/add-info branch as origin.
+
+Second challenge was when I tried to merge the branch into the main folder got a Merge conflict error message but solved that using the git merge tool.
+
+third challenge occurs when I was trying to push to the remote repository, found out GitHub disabled the remote password auth but solved it by creating a personal access token.
+
+Lastly after pushing I could only see my main branch and commits, don't know if that's an error.
